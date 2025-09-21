@@ -29,7 +29,7 @@ This project applies unsupervised machine learning to explore patterns of loneli
   - An emotionally expressive cluster that also reported the **highest loneliness**  
   - An emotionally reserved cluster that reported the **lowest loneliness**  
   - A middle group sitting between the two extremes  
-- Found that **loneliness is not simply tied to emotional openness** – those most expressive were also most likely to report loneliness.  
+- Found that **loneliness is not simply tied to emotional openness** - those most expressive were also most likely to report loneliness.  
 - Introducing age revealed a clear trend:  
   - **Younger men** were significantly more likely to report loneliness, despite greater emotional openness.  
   - **Older men** reported lower loneliness, potentially reflecting stability or reduced willingness to express distress.  
