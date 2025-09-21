@@ -13,7 +13,7 @@ This project applies unsupervised machine learning to explore patterns of loneli
 - Created demographic comparisons and visualisations to interpret the emotional landscape of each group
 
 ## Methods & Tools
-- **Clustering & Dimensionality Reduction:** KMeans, PCA (scikit-learn)  
+- **Clustering & Dimensionality Reduction:** PCA, KMeans 
 - **Preprocessing:** feature scaling, standardisation  
 - **Visualisation:** matplotlib, seaborn  
 - **Data Handling:** pandas, numpy  
