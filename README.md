@@ -1,5 +1,7 @@
 # Exploring Patterns in Male Loneliness Using KMeans Clustering
 
+*Completion Date: 10/07/2025*
+
 ## Overview
 This project applies unsupervised machine learning to explore patterns of loneliness and emotional behaviour among men, using survey data from over 1,600 respondents. By clustering participants based on their responses to emotionally focused questions, the project identifies distinct groups with different levels of emotional openness and self-reported loneliness.
 
