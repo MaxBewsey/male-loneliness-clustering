@@ -31,10 +31,9 @@ This project applies unsupervised machine learning to explore patterns of loneli
   - A middle group sitting between the two extremes  
 - Found that **loneliness is not simply tied to emotional openness** - those most expressive were also most likely to report loneliness.  
 - Introducing age revealed a clear trend:  
-  - **Younger men** were significantly more likely to report loneliness, despite greater emotional openness.  
-  - **Older men** reported lower loneliness, potentially reflecting stability or reduced willingness to express distress.  
+  - **Younger men** were significantly more likely to report loneliness, despite greater emotional openness
+  - **Older men** reported lower loneliness, potentially reflecting stability or reduced willingness to express distress
 
 ## Future Work
 - Incorporate open-ended survey responses and apply **NLP techniques** for deeper insights  
 - Explore **semi-supervised learning approaches** that combine structured survey responses with unstructured text data  
-- Examine cultural and demographic factors that may shape self-reported loneliness  
