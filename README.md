@@ -18,12 +18,6 @@ This project applies unsupervised machine learning to explore patterns of loneli
 - **Visualisation:** matplotlib, seaborn  
 - **Data Handling:** pandas, numpy  
 
-## Repo Structure
-- data/
-  - masculinity
-- notebooks/
-  - Exploring Patterns in Male Loneliness Using KMeans Clustering
-
 ## Results
 - Identified **three distinct groups** with different loneliness profiles:  
   - An emotionally expressive cluster that also reported the **highest loneliness**  
@@ -37,3 +31,6 @@ This project applies unsupervised machine learning to explore patterns of loneli
 ## Future Work
 - Incorporate open-ended survey responses and apply **NLP techniques** for deeper insights  
 - Explore **semi-supervised learning approaches** that combine structured survey responses with unstructured text data  
+
+## Data
+The dataset used in this project was obtained through the Codecademy *'Build a Machine Learning Model'* Skill path. Due to licensing restrictions, the dataset will not be shared.
